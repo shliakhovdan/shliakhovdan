@@ -16,7 +16,7 @@ As a software developer, I find immense joy in the process of developing innovat
 
 <a href="https://www.linkedin.com/in/shliakhovdan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/shliakhovdan"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
-<a href="https://t.me/shliakhovdann"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="21px"/></a>
+<a href="https://t.me/shliakhovdan"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
