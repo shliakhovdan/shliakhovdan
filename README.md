@@ -21,8 +21,8 @@ As a software developer, I find immense joy in the process of developing innovat
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- Duffel - The best API to sell flights online — продажа авиабилетов
-- To-do list
+- LMS of IT school
+
 
 ## 🌱 I'm currently learning
 
