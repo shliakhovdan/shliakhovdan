@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/shliakhovdan/" target="_blank
 I'm a Software Developer 💻!
 </h2> 
 
-As a software developer, I find immense joy in the process of developing innovative and cutting-edge software. I relish the challenge of hunting down bugs and optimizing code for peak performance. Learning about new programming languages and frameworks excites me, and I'm always eager to collaborate with fellow developers to create amazing software solutions. Exploring the intricacies of software development is like solving a puzzle, and I can't get enough of it.
+As a front-end developer, I find immense joy in the process of developing innovative and cutting-edge software. I relish the challenge of hunting down bugs and optimizing code for peak performance. Learning about new programming languages and frameworks excites me, and I'm always eager to collaborate with fellow developers to create amazing software solutions. Exploring the intricacies of software development is like solving a puzzle, and I can't get enough of it.
 
 ### 🤝 Connect with me:
 
