@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.jfif" alt="my banner">
+<img src="banner.jpg" alt="my banner">
 </p>
 
 <h3 align="center">
