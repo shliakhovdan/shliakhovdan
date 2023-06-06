@@ -7,10 +7,12 @@ Hi there, I'm <a href="https://www.linkedin.com/in/shliakhovdan/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a Software Developer 💻!
+I'm a Front-end Developer 💻!
 </h2> 
 
-As a front-end developer, I find immense joy in the process of developing innovative and cutting-edge software. I relish the challenge of hunting down bugs and optimizing code for peak performance. Learning about new programming languages and frameworks excites me, and I'm always eager to collaborate with fellow developers to create amazing software solutions. Exploring the intricacies of software development is like solving a puzzle, and I can't get enough of it.
+Passionate and driven first-year student at Odessa Mechnikov National University, pursuing a degree in Applied Mathematics and Computer Science. With a strong background in front-end development and three years of studying experience, I have completed multiple courses and engaged in self-driven projects.
+I possess a thirst for knowledge, evident through my dedication to continuous learning and maintaining a high level of English proficiency. A natural leader, I have held positions as a course monitor in school and currently serve as the head of the student council on my faculty in university. 
+Excited about exploring new technologies and programming languages, I am always ready to embrace innovative solutions.
 
 ### 🤝 Connect with me:
 
