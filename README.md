@@ -23,13 +23,16 @@ Excited about exploring new technologies and programming languages, I am always 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- LMS of IT school
+- MERN Blogify
+- To-do list
 
 
 ## 🌱 I'm currently learning
 
 - TypeScript
 - Node.js
+- Express.js
+- MongoDB
 
 ## 💼 Technical Skills
 
