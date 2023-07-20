@@ -23,7 +23,7 @@ Excited about exploring new technologies and programming languages, I am always 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- To-Do List App (TypeScr
+- To-Do List App (TypeScript, React.js, Redux Toolkit, Redux Persist, Material UI);
 
 ## 🌱 I'm currently learning
 
