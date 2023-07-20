@@ -23,7 +23,7 @@ Excited about exploring new technologies and programming languages, I am always 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- Portfolio website
+- To-Do List App (TypeScr
 
 ## 🌱 I'm currently learning
 
