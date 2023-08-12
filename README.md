@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/shliakhovdan/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a Front-end Developer 💻!
+I'm a Full Stack (React.js, Node.js) Developer 💻!
 </h2> 
 
 Passionate and driven first-year student at Odessa Mechnikov National University, pursuing a degree in Applied Mathematics and Computer Science. With a strong background in front-end development and three years of studying experience, I have completed multiple courses and engaged in self-driven projects.
@@ -23,14 +23,13 @@ Excited about exploring new technologies and programming languages, I am always 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- Task for internship!
+- Todo application (TypeScript, React.js, Redux Toolkit, Material UI, Node.js, Express.js, MongoDB, Authentification);
+- Blog (TypeScript, React.js, Redux Toolkit, TailwindCSS, Node.js, Express.js, PostgreSQL, Authentification);
+- Project with AWS
 
 ## 🌱 I'm currently learning
 
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
+- PostgreSQL
 
 ## 💼 Technical Skills
 
