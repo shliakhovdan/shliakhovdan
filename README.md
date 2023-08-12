@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.jpg" alt="my banner">
+<img src="Green and White Technology LinkedIn Banner.png" alt="my banner">
 </p>
 
 <h3 align="center">
