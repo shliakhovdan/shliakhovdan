@@ -23,13 +23,11 @@ Excited about exploring new technologies and programming languages, I am always 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- Todo application (TypeScript, React.js, Redux Toolkit, Material UI, Node.js, Express.js, MongoDB, Authentification);
-- Blog (TypeScript, React.js, Redux Toolkit, TailwindCSS, Node.js, Express.js, PostgreSQL, Authentification);
-- Project with AWS
+- ...
 
 ## 🌱 I'm currently learning
 
-- PostgreSQL
+- ...
 
 ## 💼 Technical Skills
 
